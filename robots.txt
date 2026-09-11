@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umairmayo80.github.io/sardar-umair-tariq-self-intro/sitemap.xml
